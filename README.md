@@ -20,10 +20,4 @@ The dashboard includes *interactive KPIs, bar charts, donut charts, and slicers*
 2. Open it in *Power BI Desktop*.  
 3. Explore the dashboard by applying filters and interacting with visuals.  
 
----
 
-📌 Project Insights
-- Total Sales: *21K*  
-- Total Profit: *2.95K*  
-- Units Sold: *40*  
-- Category-wise performance visualization 
